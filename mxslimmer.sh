@@ -1,3 +1,6 @@
 #!/bin/sh
 
-sudo apt-get remove yubi*
+sudo apt-get remove \
+libreoffice* \
+vlc* \
+yubi* 
