@@ -16,6 +16,7 @@ mx-docs \
 nomacs* \
 peg-e \
 projectm* \
+samba* \
 sane* \
 simple-scan \
 strawberry \
