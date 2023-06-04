@@ -24,5 +24,4 @@ done
 
 sudo apt autoremove -y
 
-rm -rf /usr/share/backgrounds/*
-
+sudo rm -rf /usr/share/backgrounds/*
