@@ -11,10 +11,13 @@ gmtp \
 gnome-mahjongg* \
 lbreakout* \
 libreoffice* \
+libsane* \
 mx-docs \
 nomacs* \
 peg-e \
 projectm* \
+sane* \
+simple-scan \
 strawberry \
 swell-foop \
 thunderbird \
