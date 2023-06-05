@@ -1,6 +1,7 @@
 #!/bin/sh
 
 echo MX Slimmer v1.0
+echo
 
 for package in \
 asunder \
